@@ -21,7 +21,7 @@ public class MultiCharacterOperatorCalculator {
             }
 
             try {
-                
+               //switch case for all the operator. 
                 switch (operator) {
                     case "+":
                     case "-":
