@@ -26,7 +26,7 @@ public class MultiCharacterOperatorCalculator {
                     case "+":
                     case "-":
                     case "*":
-                    case "/":
+                    //we forgot to add case "/":
                         
                         
                         System.out.print("Enter first number: ");
