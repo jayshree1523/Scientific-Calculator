@@ -43,7 +43,7 @@ public class MultiCharacterOperatorCalculator {
                         num2 /= 100;
                         break;
                         
-                    case "sqrt":
+                    case "sqr":
                         System.out.print("Enter number for square root: ");
                         num1 = scanner.nextDouble();
                         num2 = Math.sqrt(num1);
