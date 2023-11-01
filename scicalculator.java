@@ -50,7 +50,7 @@ public class MultiCharacterOperatorCalculator {
                         break;
                         
                     case "pow":
-                        System.out.print("Enter base and exponent for power operation: ");
+                        System.out.print("Enter Base and Exponent for Power operation: ");
                         num1 = scanner.nextDouble();
                         num2 = scanner.nextDouble();
                         num1 = Math.pow(num1, num2);
